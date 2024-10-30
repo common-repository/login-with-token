@@ -1,0 +1,105 @@
+.tsa_form_input {
+	float: none ;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	width: 100%;
+}
+.tsa_form_input_country_code_div {
+    width:30%;
+	opacity: 1;
+}
+
+.tsa_form_input_country_code_div input {
+   
+	background-color: white;
+	text-align: right;
+}
+
+.tsa_form_input_country_code_div select {
+   width: 100%;
+	background-color: white;
+	text-align: right;
+}
+
+.tsa_animation_div {
+	text-align: center;
+}
+
+.tsa_form_input_country_phone_number_div {
+    width:70%;
+	margin-bottom: 10px;
+	text-align: center;
+}
+
+.accept_terms_and_conditions {
+	clear: left;
+}
+
+.tsa_form_input_country_phone_number_div i {
+	position: absolute;
+	
+}
+
+.tsa_form_title {
+	text-align: center;
+}
+
+.tsa_form_button_div {
+	display: block;
+	text-align: center;
+	padding: 10px;
+}
+  
+  
+.icon {
+	padding: 10px;
+	color: #69b9aa;
+	min-width: 50px;
+	text-align: center;
+}
+  
+.tsa_form_input_phone_number {
+	width: 100%;
+	padding: 10px;
+	text-align: center;
+}
+
+/*Twenty Twenty Theme*/
+#site-header {
+	display:none;
+}
+header {
+	display:none;
+}
+#site-footer {
+	display:none;
+}
+body > div.footer-nav-widgets-wrapper.header-footer-group > div > aside {
+	display:none;
+}
+#site-footer {
+	display:none;
+}
+
+/*Twenty Twenty-One Theme*/
+#masthead {
+	display:none;
+}
+
+#page > aside {
+	display:none;
+}
+
+#colophon {
+	display:none;
+}
+
+/*Twenty Twenty-Two Theme*/
+#wp--skip-link--target > div.wp-container-6.wp-block-group {
+	display:none;
+}
+
+body > div.wp-site-blocks > footer{
+	display:none;
+}
